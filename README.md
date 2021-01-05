@@ -1,4 +1,4 @@
-# grafkom-project
+# Grafkom Project - Dragon Run 
 Grafkom Project dari Kelompok 1
 
 # Dragon Run <br/>
