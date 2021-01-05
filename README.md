@@ -1,4 +1,4 @@
-# Grafkom Project - Dragon Run 
+# Grafkom Project - Dragon Run :running_man: :fire: :dragon_face:
 Grafkom Project dari Kelompok 1
 
 # Dragon Run <br/>
