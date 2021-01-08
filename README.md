@@ -66,3 +66,9 @@ Menyelamatkan orang sebanyak-banyaknya dengan kata lain mengumpulkan poin sebany
 - Character Utama dibuat menggunakan : Photoshop dan dilakukan perekaman bones di : Unity
 - Background dan asset pendukung lainnya dibuat menggunakan bantuan : Figma
 - SoundFx di ambil dari : Youtube dan Asset Store (Free)
+
+## Screenshot In-Game
+![image](https://user-images.githubusercontent.com/55394860/104018084-d523f500-51eb-11eb-869e-a8ecdc7a0c46.png)
+![image](https://user-images.githubusercontent.com/55394860/104018187-00a6df80-51ec-11eb-864c-c3d20879058f.png)
+![image](https://user-images.githubusercontent.com/55394860/104018429-554a5a80-51ec-11eb-8282-748565642d05.png)
+
