@@ -71,4 +71,4 @@ Menyelamatkan orang sebanyak-banyaknya dengan kata lain mengumpulkan poin sebany
 ![image](https://user-images.githubusercontent.com/55394860/104018084-d523f500-51eb-11eb-869e-a8ecdc7a0c46.png)
 ![image](https://user-images.githubusercontent.com/55394860/104018187-00a6df80-51ec-11eb-864c-c3d20879058f.png)
 ![image](https://user-images.githubusercontent.com/55394860/104018429-554a5a80-51ec-11eb-8282-748565642d05.png)
-
+![image](https://user-images.githubusercontent.com/55394860/104018643-bd993c00-51ec-11eb-9ba2-65a1fb0523e5.png)
